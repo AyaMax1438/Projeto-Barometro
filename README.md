@@ -10,6 +10,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
+3. Install the API
+   ```bash
+   npx expo install expo-sensors
+   ```
+
 2. Start the app
 
    ```bash
