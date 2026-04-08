@@ -13,11 +13,11 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Clique nos items abaixo</Text>
+      <Text>Clique abaixo para consultar o barômetro</Text>
 
       <Button
-        title="Consultar CEP"
-        onPress={() => roteador.push("./cep")}
+        title="Consultar Barômetro"
+        onPress={() => roteador.push("./barometro")}
       />
 
     </View>
