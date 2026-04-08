@@ -36,9 +36,9 @@ npm run reset-project
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ## ATENÇÃO - Materiais de apoio
-Documentação de um barômetro - https://docs.expo.dev/versions/latest/sdk/barometer/
-React Native - https://www.alura.com.br/artigos/react-native?srsltid=AfmBOoqUD2ZPfQgyh7f14_2j2C7QQGg0a_oRCJ6sgmwatP-bPOUSZ2bZ
-Explicação - https://olhardigital.com.br/2023/12/31/reviews/o-que-e-e-para-que-serve-um-barometro/
+- Documentação de um barômetro: https://docs.expo.dev/versions/latest/sdk/barometer/
+- React Native: https://www.alura.com.br/artigos/react-native?srsltid=AfmBOoqUD2ZPfQgyh7f14_2j2C7QQGg0a_oRCJ6sgmwatP-bPOUSZ2bZ
+- Explicação: https://olhardigital.com.br/2023/12/31/reviews/o-que-e-e-para-que-serve-um-barometro/
 
 ## Learn more
 
