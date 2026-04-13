@@ -21,17 +21,13 @@ export default function Barometro() {
    };
 
   return (
-    <SafeAreaView  style={{
-      justifyContent: 'center'
-    }
-    }>
+    <SafeAreaView  style={{justifyContent: 'center'}}>
       <Text>Barometro yay </Text>
       <Text>Sensor: {leitor ? 'ligado' : 'desligado'} </Text>
       <Text>Pressão: {pressure} hPa</Text>
       <Text>Altura: {relativeAltitude ?? "Indefinido"} </Text>
 
       <Button title="Ligar / Desligar"onPress={AtivarLeitor}/>
-
     </SafeAreaView>
   );
 }
