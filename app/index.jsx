@@ -1,3 +1,4 @@
+// misti attakk xP
 //importa um modelo de view que mantém o conteúdo fora de areas incovenientes (tipo a barra de notificações)
 import { SafeAreaView } from "react-native-safe-area-context";
 //importa as combinações básicas do projeto junto do sensor Barometer de dentro da biblioteca 'expo-sensors'
